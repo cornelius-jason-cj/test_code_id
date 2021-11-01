@@ -8,6 +8,6 @@ This project uses
 </ul>
 
 # Getting started
-git clone git@github.com:cornelius-jason-cj/test_code_id.git
-npm install
-npm run start
+  git clone git@github.com:cornelius-jason-cj/test_code_id.git
+  npm install
+  npm run start
